@@ -1,0 +1,43 @@
+.hexa {
+    width: 500px;
+    height: 500px;
+    background: #ff61c2;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); 
+}
+
+.filho {
+    width: 250px;
+    height: 250px;
+    background: #e072f1;
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); 
+    transition: transform 0.3s ease; 
+}
+
+.filho p {
+    color: #fff;
+    background: #0091ff;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: 800;
+    border-radius: 10px; 
+    padding: 10px; 
+}
+
+.outra {
+    width: 50%;
+    height: 50vh;
+    background: rgb(194, 92, 241);
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); 
+}
+
+.filhaD {
+    width: 75vw;
+    height: 50%;
+    background: rgb(0, 255, 208);
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); 
+    transition: transform 0.3s ease; 
+}
